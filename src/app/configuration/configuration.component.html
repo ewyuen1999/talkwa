@@ -1,0 +1,15 @@
+<div class="center">
+  <p>
+    <select [(ngModel)]="selected" name="selected" (ngModelChange)="changedVersionHandler($event)">
+        <option *ngFor="let p of versions"
+                      [ngValue]="p"
+                      [attr.selected]="p.id === selected?.id ? true : null ">{{p.displayName}}</option>
+    </select>
+  </p>
+ 
+   <!--
+  <input type="checkbox" id="isGuessAudio" [(ngModel)]="configuration.isGuessAudio"  (change)="changedGuessHandler($event.target.checked)">  Guess audio position<br>
+       guess: {{ configuration.isGuessAudio }}
+  <p>The selected version is {{selected?.displayName}}</p>
+  -->
+</div>

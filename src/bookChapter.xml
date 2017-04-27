@@ -1,0 +1,1324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bible>
+  <book id="Genesis" number="1">
+    <chapter number="1" verses="31" />
+    <chapter number="2" verses="25" />
+    <chapter number="3" verses="24" />
+    <chapter number="4" verses="26" />
+    <chapter number="5" verses="32" />
+    <chapter number="6" verses="22" />
+    <chapter number="7" verses="24" />
+    <chapter number="8" verses="22" />
+    <chapter number="9" verses="29" />
+    <chapter number="10" verses="32" />
+    <chapter number="11" verses="32" />
+    <chapter number="12" verses="20" />
+    <chapter number="13" verses="18" />
+    <chapter number="14" verses="24" />
+    <chapter number="15" verses="21" />
+    <chapter number="16" verses="16" />
+    <chapter number="17" verses="27" />
+    <chapter number="18" verses="33" />
+    <chapter number="19" verses="38" />
+    <chapter number="20" verses="18" />
+    <chapter number="21" verses="34" />
+    <chapter number="22" verses="24" />
+    <chapter number="23" verses="20" />
+    <chapter number="24" verses="67" />
+    <chapter number="25" verses="34" />
+    <chapter number="26" verses="35" />
+    <chapter number="27" verses="46" />
+    <chapter number="28" verses="22" />
+    <chapter number="29" verses="35" />
+    <chapter number="30" verses="43" />
+    <chapter number="31" verses="55" />
+    <chapter number="32" verses="32" />
+    <chapter number="33" verses="20" />
+    <chapter number="34" verses="31" />
+    <chapter number="35" verses="29" />
+    <chapter number="36" verses="43" />
+    <chapter number="37" verses="36" />
+    <chapter number="38" verses="30" />
+    <chapter number="39" verses="23" />
+    <chapter number="40" verses="23" />
+    <chapter number="41" verses="57" />
+    <chapter number="42" verses="38" />
+    <chapter number="43" verses="34" />
+    <chapter number="44" verses="34" />
+    <chapter number="45" verses="28" />
+    <chapter number="46" verses="34" />
+    <chapter number="47" verses="31" />
+    <chapter number="48" verses="22" />
+    <chapter number="49" verses="33" />
+    <chapter number="50" verses="26" />
+  </book>
+  <book id="Exodus" number="2">
+    <chapter number="1" verses="22" />
+    <chapter number="2" verses="25" />
+    <chapter number="3" verses="22" />
+    <chapter number="4" verses="31" />
+    <chapter number="5" verses="23" />
+    <chapter number="6" verses="30" />
+    <chapter number="7" verses="25" />
+    <chapter number="8" verses="32" />
+    <chapter number="9" verses="35" />
+    <chapter number="10" verses="29" />
+    <chapter number="11" verses="10" />
+    <chapter number="12" verses="51" />
+    <chapter number="13" verses="22" />
+    <chapter number="14" verses="31" />
+    <chapter number="15" verses="27" />
+    <chapter number="16" verses="36" />
+    <chapter number="17" verses="16" />
+    <chapter number="18" verses="27" />
+    <chapter number="19" verses="25" />
+    <chapter number="20" verses="26" />
+    <chapter number="21" verses="36" />
+    <chapter number="22" verses="31" />
+    <chapter number="23" verses="33" />
+    <chapter number="24" verses="18" />
+    <chapter number="25" verses="40" />
+    <chapter number="26" verses="37" />
+    <chapter number="27" verses="21" />
+    <chapter number="28" verses="43" />
+    <chapter number="29" verses="46" />
+    <chapter number="30" verses="38" />
+    <chapter number="31" verses="18" />
+    <chapter number="32" verses="35" />
+    <chapter number="33" verses="23" />
+    <chapter number="34" verses="35" />
+    <chapter number="35" verses="35" />
+    <chapter number="36" verses="38" />
+    <chapter number="37" verses="29" />
+    <chapter number="38" verses="31" />
+    <chapter number="39" verses="43" />
+    <chapter number="40" verses="38" />
+  </book>
+  <book id="Leviticus" number="3">
+    <chapter number="1" verses="17" />
+    <chapter number="2" verses="16" />
+    <chapter number="3" verses="17" />
+    <chapter number="4" verses="35" />
+    <chapter number="5" verses="19" />
+    <chapter number="6" verses="30" />
+    <chapter number="7" verses="38" />
+    <chapter number="8" verses="36" />
+    <chapter number="9" verses="24" />
+    <chapter number="10" verses="20" />
+    <chapter number="11" verses="47" />
+    <chapter number="12" verses="8" />
+    <chapter number="13" verses="59" />
+    <chapter number="14" verses="57" />
+    <chapter number="15" verses="33" />
+    <chapter number="16" verses="34" />
+    <chapter number="17" verses="16" />
+    <chapter number="18" verses="30" />
+    <chapter number="19" verses="37" />
+    <chapter number="20" verses="27" />
+    <chapter number="21" verses="24" />
+    <chapter number="22" verses="33" />
+    <chapter number="23" verses="44" />
+    <chapter number="24" verses="23" />
+    <chapter number="25" verses="55" />
+    <chapter number="26" verses="46" />
+    <chapter number="27" verses="34" />
+  </book>
+  <book id="Numbers" number="4">
+    <chapter number="1" verses="54" />
+    <chapter number="2" verses="34" />
+    <chapter number="3" verses="51" />
+    <chapter number="4" verses="49" />
+    <chapter number="5" verses="31" />
+    <chapter number="6" verses="27" />
+    <chapter number="7" verses="89" />
+    <chapter number="8" verses="26" />
+    <chapter number="9" verses="23" />
+    <chapter number="10" verses="36" />
+    <chapter number="11" verses="35" />
+    <chapter number="12" verses="16" />
+    <chapter number="13" verses="33" />
+    <chapter number="14" verses="45" />
+    <chapter number="15" verses="41" />
+    <chapter number="16" verses="50" />
+    <chapter number="17" verses="13" />
+    <chapter number="18" verses="32" />
+    <chapter number="19" verses="22" />
+    <chapter number="20" verses="29" />
+    <chapter number="21" verses="35" />
+    <chapter number="22" verses="41" />
+    <chapter number="23" verses="30" />
+    <chapter number="24" verses="25" />
+    <chapter number="25" verses="18" />
+    <chapter number="26" verses="65" />
+    <chapter number="27" verses="23" />
+    <chapter number="28" verses="31" />
+    <chapter number="29" verses="40" />
+    <chapter number="30" verses="16" />
+    <chapter number="31" verses="54" />
+    <chapter number="32" verses="42" />
+    <chapter number="33" verses="56" />
+    <chapter number="34" verses="29" />
+    <chapter number="35" verses="34" />
+    <chapter number="36" verses="13" />
+  </book>
+  <book id="Deuteronomy" number="5">
+    <chapter number="1" verses="46" />
+    <chapter number="2" verses="37" />
+    <chapter number="3" verses="29" />
+    <chapter number="4" verses="49" />
+    <chapter number="5" verses="33" />
+    <chapter number="6" verses="25" />
+    <chapter number="7" verses="26" />
+    <chapter number="8" verses="20" />
+    <chapter number="9" verses="29" />
+    <chapter number="10" verses="22" />
+    <chapter number="11" verses="32" />
+    <chapter number="12" verses="32" />
+    <chapter number="13" verses="18" />
+    <chapter number="14" verses="29" />
+    <chapter number="15" verses="23" />
+    <chapter number="16" verses="22" />
+    <chapter number="17" verses="20" />
+    <chapter number="18" verses="22" />
+    <chapter number="19" verses="21" />
+    <chapter number="20" verses="20" />
+    <chapter number="21" verses="23" />
+    <chapter number="22" verses="30" />
+    <chapter number="23" verses="25" />
+    <chapter number="24" verses="22" />
+    <chapter number="25" verses="19" />
+    <chapter number="26" verses="19" />
+    <chapter number="27" verses="26" />
+    <chapter number="28" verses="68" />
+    <chapter number="29" verses="29" />
+    <chapter number="30" verses="20" />
+    <chapter number="31" verses="30" />
+    <chapter number="32" verses="52" />
+    <chapter number="33" verses="29" />
+    <chapter number="34" verses="12" />
+  </book>
+  <book id="Joshua" number="6">
+    <chapter number="1" verses="18" />
+    <chapter number="2" verses="24" />
+    <chapter number="3" verses="17" />
+    <chapter number="4" verses="24" />
+    <chapter number="5" verses="15" />
+    <chapter number="6" verses="27" />
+    <chapter number="7" verses="26" />
+    <chapter number="8" verses="35" />
+    <chapter number="9" verses="27" />
+    <chapter number="10" verses="43" />
+    <chapter number="11" verses="23" />
+    <chapter number="12" verses="24" />
+    <chapter number="13" verses="33" />
+    <chapter number="14" verses="15" />
+    <chapter number="15" verses="63" />
+    <chapter number="16" verses="10" />
+    <chapter number="17" verses="18" />
+    <chapter number="18" verses="28" />
+    <chapter number="19" verses="51" />
+    <chapter number="20" verses="9" />
+    <chapter number="21" verses="45" />
+    <chapter number="22" verses="34" />
+    <chapter number="23" verses="16" />
+    <chapter number="24" verses="33" />
+  </book>
+  <book id="Judges" number="7">
+    <chapter number="1" verses="36" />
+    <chapter number="2" verses="23" />
+    <chapter number="3" verses="31" />
+    <chapter number="4" verses="24" />
+    <chapter number="5" verses="31" />
+    <chapter number="6" verses="40" />
+    <chapter number="7" verses="25" />
+    <chapter number="8" verses="35" />
+    <chapter number="9" verses="57" />
+    <chapter number="10" verses="18" />
+    <chapter number="11" verses="40" />
+    <chapter number="12" verses="15" />
+    <chapter number="13" verses="25" />
+    <chapter number="14" verses="20" />
+    <chapter number="15" verses="20" />
+    <chapter number="16" verses="31" />
+    <chapter number="17" verses="13" />
+    <chapter number="18" verses="31" />
+    <chapter number="19" verses="30" />
+    <chapter number="20" verses="48" />
+    <chapter number="21" verses="25" />
+  </book>
+  <book id="Ruth" number="8">
+    <chapter number="1" verses="22" />
+    <chapter number="2" verses="23" />
+    <chapter number="3" verses="18" />
+    <chapter number="4" verses="22" />
+  </book>
+  <book id="1Samuel" number="9">
+    <chapter number="1" verses="28" />
+    <chapter number="2" verses="36" />
+    <chapter number="3" verses="21" />
+    <chapter number="4" verses="22" />
+    <chapter number="5" verses="12" />
+    <chapter number="6" verses="21" />
+    <chapter number="7" verses="17" />
+    <chapter number="8" verses="22" />
+    <chapter number="9" verses="27" />
+    <chapter number="10" verses="27" />
+    <chapter number="11" verses="15" />
+    <chapter number="12" verses="25" />
+    <chapter number="13" verses="23" />
+    <chapter number="14" verses="52" />
+    <chapter number="15" verses="35" />
+    <chapter number="16" verses="23" />
+    <chapter number="17" verses="58" />
+    <chapter number="18" verses="30" />
+    <chapter number="19" verses="24" />
+    <chapter number="20" verses="42" />
+    <chapter number="21" verses="15" />
+    <chapter number="22" verses="23" />
+    <chapter number="23" verses="29" />
+    <chapter number="24" verses="22" />
+    <chapter number="25" verses="44" />
+    <chapter number="26" verses="25" />
+    <chapter number="27" verses="12" />
+    <chapter number="28" verses="25" />
+    <chapter number="29" verses="11" />
+    <chapter number="30" verses="31" />
+    <chapter number="31" verses="13" />
+  </book>
+  <book id="2Samuel" number="10">
+    <chapter number="1" verses="27" />
+    <chapter number="2" verses="32" />
+    <chapter number="3" verses="39" />
+    <chapter number="4" verses="12" />
+    <chapter number="5" verses="25" />
+    <chapter number="6" verses="23" />
+    <chapter number="7" verses="29" />
+    <chapter number="8" verses="18" />
+    <chapter number="9" verses="13" />
+    <chapter number="10" verses="19" />
+    <chapter number="11" verses="27" />
+    <chapter number="12" verses="31" />
+    <chapter number="13" verses="39" />
+    <chapter number="14" verses="33" />
+    <chapter number="15" verses="37" />
+    <chapter number="16" verses="23" />
+    <chapter number="17" verses="29" />
+    <chapter number="18" verses="33" />
+    <chapter number="19" verses="43" />
+    <chapter number="20" verses="26" />
+    <chapter number="21" verses="22" />
+    <chapter number="22" verses="51" />
+    <chapter number="23" verses="39" />
+    <chapter number="24" verses="25" />
+  </book>
+  <book id="1Kings" number="11">
+    <chapter number="1" verses="53" />
+    <chapter number="2" verses="46" />
+    <chapter number="3" verses="28" />
+    <chapter number="4" verses="34" />
+    <chapter number="5" verses="18" />
+    <chapter number="6" verses="38" />
+    <chapter number="7" verses="51" />
+    <chapter number="8" verses="66" />
+    <chapter number="9" verses="28" />
+    <chapter number="10" verses="29" />
+    <chapter number="11" verses="43" />
+    <chapter number="12" verses="33" />
+    <chapter number="13" verses="34" />
+    <chapter number="14" verses="31" />
+    <chapter number="15" verses="34" />
+    <chapter number="16" verses="34" />
+    <chapter number="17" verses="24" />
+    <chapter number="18" verses="46" />
+    <chapter number="19" verses="21" />
+    <chapter number="20" verses="43" />
+    <chapter number="21" verses="29" />
+    <chapter number="22" verses="53" />
+  </book>
+  <book id="2Kings" number="12">
+    <chapter number="1" verses="18" />
+    <chapter number="2" verses="25" />
+    <chapter number="3" verses="27" />
+    <chapter number="4" verses="44" />
+    <chapter number="5" verses="27" />
+    <chapter number="6" verses="33" />
+    <chapter number="7" verses="20" />
+    <chapter number="8" verses="29" />
+    <chapter number="9" verses="37" />
+    <chapter number="10" verses="36" />
+    <chapter number="11" verses="21" />
+    <chapter number="12" verses="21" />
+    <chapter number="13" verses="25" />
+    <chapter number="14" verses="29" />
+    <chapter number="15" verses="38" />
+    <chapter number="16" verses="20" />
+    <chapter number="17" verses="41" />
+    <chapter number="18" verses="37" />
+    <chapter number="19" verses="37" />
+    <chapter number="20" verses="21" />
+    <chapter number="21" verses="26" />
+    <chapter number="22" verses="20" />
+    <chapter number="23" verses="37" />
+    <chapter number="24" verses="20" />
+    <chapter number="25" verses="30" />
+  </book>
+  <book id="1Chronicles" number="13">
+    <chapter number="1" verses="54" />
+    <chapter number="2" verses="55" />
+    <chapter number="3" verses="24" />
+    <chapter number="4" verses="43" />
+    <chapter number="5" verses="26" />
+    <chapter number="6" verses="81" />
+    <chapter number="7" verses="40" />
+    <chapter number="8" verses="40" />
+    <chapter number="9" verses="44" />
+    <chapter number="10" verses="14" />
+    <chapter number="11" verses="47" />
+    <chapter number="12" verses="40" />
+    <chapter number="13" verses="14" />
+    <chapter number="14" verses="17" />
+    <chapter number="15" verses="29" />
+    <chapter number="16" verses="43" />
+    <chapter number="17" verses="27" />
+    <chapter number="18" verses="17" />
+    <chapter number="19" verses="19" />
+    <chapter number="20" verses="8" />
+    <chapter number="21" verses="30" />
+    <chapter number="22" verses="19" />
+    <chapter number="23" verses="32" />
+    <chapter number="24" verses="31" />
+    <chapter number="25" verses="31" />
+    <chapter number="26" verses="32" />
+    <chapter number="27" verses="34" />
+    <chapter number="28" verses="21" />
+    <chapter number="29" verses="30" />
+  </book>
+  <book id="2Chronicles" number="14">
+    <chapter number="1" verses="17" />
+    <chapter number="2" verses="18" />
+    <chapter number="3" verses="17" />
+    <chapter number="4" verses="22" />
+    <chapter number="5" verses="14" />
+    <chapter number="6" verses="42" />
+    <chapter number="7" verses="22" />
+    <chapter number="8" verses="18" />
+    <chapter number="9" verses="31" />
+    <chapter number="10" verses="19" />
+    <chapter number="11" verses="23" />
+    <chapter number="12" verses="16" />
+    <chapter number="13" verses="22" />
+    <chapter number="14" verses="15" />
+    <chapter number="15" verses="19" />
+    <chapter number="16" verses="14" />
+    <chapter number="17" verses="19" />
+    <chapter number="18" verses="34" />
+    <chapter number="19" verses="11" />
+    <chapter number="20" verses="37" />
+    <chapter number="21" verses="20" />
+    <chapter number="22" verses="12" />
+    <chapter number="23" verses="21" />
+    <chapter number="24" verses="27" />
+    <chapter number="25" verses="28" />
+    <chapter number="26" verses="23" />
+    <chapter number="27" verses="9" />
+    <chapter number="28" verses="27" />
+    <chapter number="29" verses="36" />
+    <chapter number="30" verses="27" />
+    <chapter number="31" verses="21" />
+    <chapter number="32" verses="33" />
+    <chapter number="33" verses="25" />
+    <chapter number="34" verses="33" />
+    <chapter number="35" verses="27" />
+    <chapter number="36" verses="23" />
+  </book>
+  <book id="Ezra" number="15">
+    <chapter number="1" verses="11" />
+    <chapter number="2" verses="70" />
+    <chapter number="3" verses="13" />
+    <chapter number="4" verses="24" />
+    <chapter number="5" verses="17" />
+    <chapter number="6" verses="22" />
+    <chapter number="7" verses="28" />
+    <chapter number="8" verses="36" />
+    <chapter number="9" verses="15" />
+    <chapter number="10" verses="44" />
+  </book>
+  <book id="Nehemiah" number="16">
+    <chapter number="1" verses="11" />
+    <chapter number="2" verses="20" />
+    <chapter number="3" verses="32" />
+    <chapter number="4" verses="23" />
+    <chapter number="5" verses="19" />
+    <chapter number="6" verses="19" />
+    <chapter number="7" verses="73" />
+    <chapter number="8" verses="18" />
+    <chapter number="9" verses="38" />
+    <chapter number="10" verses="39" />
+    <chapter number="11" verses="36" />
+    <chapter number="12" verses="47" />
+    <chapter number="13" verses="31" />
+  </book>
+  <book id="Esther" number="17">
+    <chapter number="1" verses="22" />
+    <chapter number="2" verses="23" />
+    <chapter number="3" verses="15" />
+    <chapter number="4" verses="17" />
+    <chapter number="5" verses="14" />
+    <chapter number="6" verses="14" />
+    <chapter number="7" verses="10" />
+    <chapter number="8" verses="17" />
+    <chapter number="9" verses="32" />
+    <chapter number="10" verses="3" />
+  </book>
+  <book id="Job" number="18">
+    <chapter number="1" verses="22" />
+    <chapter number="2" verses="13" />
+    <chapter number="3" verses="26" />
+    <chapter number="4" verses="21" />
+    <chapter number="5" verses="27" />
+    <chapter number="6" verses="30" />
+    <chapter number="7" verses="21" />
+    <chapter number="8" verses="22" />
+    <chapter number="9" verses="35" />
+    <chapter number="10" verses="22" />
+    <chapter number="11" verses="20" />
+    <chapter number="12" verses="25" />
+    <chapter number="13" verses="28" />
+    <chapter number="14" verses="22" />
+    <chapter number="15" verses="35" />
+    <chapter number="16" verses="22" />
+    <chapter number="17" verses="16" />
+    <chapter number="18" verses="21" />
+    <chapter number="19" verses="29" />
+    <chapter number="20" verses="29" />
+    <chapter number="21" verses="34" />
+    <chapter number="22" verses="30" />
+    <chapter number="23" verses="17" />
+    <chapter number="24" verses="25" />
+    <chapter number="25" verses="6" />
+    <chapter number="26" verses="14" />
+    <chapter number="27" verses="23" />
+    <chapter number="28" verses="28" />
+    <chapter number="29" verses="25" />
+    <chapter number="30" verses="31" />
+    <chapter number="31" verses="40" />
+    <chapter number="32" verses="22" />
+    <chapter number="33" verses="33" />
+    <chapter number="34" verses="37" />
+    <chapter number="35" verses="16" />
+    <chapter number="36" verses="33" />
+    <chapter number="37" verses="24" />
+    <chapter number="38" verses="41" />
+    <chapter number="39" verses="30" />
+    <chapter number="40" verses="24" />
+    <chapter number="41" verses="34" />
+    <chapter number="42" verses="17" />
+  </book>
+  <book id="Psalm" number="19">
+    <chapter number="1" verses="6" />
+    <chapter number="2" verses="12" />
+    <chapter number="3" verses="8" />
+    <chapter number="4" verses="8" />
+    <chapter number="5" verses="12" />
+    <chapter number="6" verses="10" />
+    <chapter number="7" verses="17" />
+    <chapter number="8" verses="9" />
+    <chapter number="9" verses="20" />
+    <chapter number="10" verses="18" />
+    <chapter number="11" verses="7" />
+    <chapter number="12" verses="8" />
+    <chapter number="13" verses="6" />
+    <chapter number="14" verses="7" />
+    <chapter number="15" verses="5" />
+    <chapter number="16" verses="11" />
+    <chapter number="17" verses="15" />
+    <chapter number="18" verses="50" />
+    <chapter number="19" verses="14" />
+    <chapter number="20" verses="9" />
+    <chapter number="21" verses="13" />
+    <chapter number="22" verses="31" />
+    <chapter number="23" verses="6" />
+    <chapter number="24" verses="10" />
+    <chapter number="25" verses="22" />
+    <chapter number="26" verses="12" />
+    <chapter number="27" verses="14" />
+    <chapter number="28" verses="9" />
+    <chapter number="29" verses="11" />
+    <chapter number="30" verses="12" />
+    <chapter number="31" verses="24" />
+    <chapter number="32" verses="11" />
+    <chapter number="33" verses="22" />
+    <chapter number="34" verses="22" />
+    <chapter number="35" verses="28" />
+    <chapter number="36" verses="12" />
+    <chapter number="37" verses="40" />
+    <chapter number="38" verses="22" />
+    <chapter number="39" verses="13" />
+    <chapter number="40" verses="17" />
+    <chapter number="41" verses="13" />
+    <chapter number="42" verses="11" />
+    <chapter number="43" verses="5" />
+    <chapter number="44" verses="26" />
+    <chapter number="45" verses="17" />
+    <chapter number="46" verses="11" />
+    <chapter number="47" verses="9" />
+    <chapter number="48" verses="14" />
+    <chapter number="49" verses="20" />
+    <chapter number="50" verses="23" />
+    <chapter number="51" verses="19" />
+    <chapter number="52" verses="9" />
+    <chapter number="53" verses="6" />
+    <chapter number="54" verses="7" />
+    <chapter number="55" verses="23" />
+    <chapter number="56" verses="13" />
+    <chapter number="57" verses="11" />
+    <chapter number="58" verses="11" />
+    <chapter number="59" verses="17" />
+    <chapter number="60" verses="12" />
+    <chapter number="61" verses="8" />
+    <chapter number="62" verses="12" />
+    <chapter number="63" verses="11" />
+    <chapter number="64" verses="10" />
+    <chapter number="65" verses="13" />
+    <chapter number="66" verses="20" />
+    <chapter number="67" verses="7" />
+    <chapter number="68" verses="35" />
+    <chapter number="69" verses="36" />
+    <chapter number="70" verses="5" />
+    <chapter number="71" verses="24" />
+    <chapter number="72" verses="20" />
+    <chapter number="73" verses="28" />
+    <chapter number="74" verses="23" />
+    <chapter number="75" verses="10" />
+    <chapter number="76" verses="12" />
+    <chapter number="77" verses="20" />
+    <chapter number="78" verses="72" />
+    <chapter number="79" verses="13" />
+    <chapter number="80" verses="19" />
+    <chapter number="81" verses="16" />
+    <chapter number="82" verses="8" />
+    <chapter number="83" verses="18" />
+    <chapter number="84" verses="12" />
+    <chapter number="85" verses="13" />
+    <chapter number="86" verses="17" />
+    <chapter number="87" verses="7" />
+    <chapter number="88" verses="18" />
+    <chapter number="89" verses="52" />
+    <chapter number="90" verses="17" />
+    <chapter number="91" verses="16" />
+    <chapter number="92" verses="15" />
+    <chapter number="93" verses="5" />
+    <chapter number="94" verses="23" />
+    <chapter number="95" verses="11" />
+    <chapter number="96" verses="13" />
+    <chapter number="97" verses="12" />
+    <chapter number="98" verses="9" />
+    <chapter number="99" verses="9" />
+    <chapter number="100" verses="5" />
+    <chapter number="101" verses="8" />
+    <chapter number="102" verses="28" />
+    <chapter number="103" verses="22" />
+    <chapter number="104" verses="35" />
+    <chapter number="105" verses="45" />
+    <chapter number="106" verses="48" />
+    <chapter number="107" verses="43" />
+    <chapter number="108" verses="13" />
+    <chapter number="109" verses="31" />
+    <chapter number="110" verses="7" />
+    <chapter number="111" verses="10" />
+    <chapter number="112" verses="10" />
+    <chapter number="113" verses="9" />
+    <chapter number="114" verses="8" />
+    <chapter number="115" verses="18" />
+    <chapter number="116" verses="19" />
+    <chapter number="117" verses="2" />
+    <chapter number="118" verses="29" />
+    <chapter number="119" verses="176" />
+    <chapter number="120" verses="7" />
+    <chapter number="121" verses="8" />
+    <chapter number="122" verses="9" />
+    <chapter number="123" verses="4" />
+    <chapter number="124" verses="8" />
+    <chapter number="125" verses="5" />
+    <chapter number="126" verses="6" />
+    <chapter number="127" verses="5" />
+    <chapter number="128" verses="6" />
+    <chapter number="129" verses="8" />
+    <chapter number="130" verses="8" />
+    <chapter number="131" verses="3" />
+    <chapter number="132" verses="18" />
+    <chapter number="133" verses="3" />
+    <chapter number="134" verses="3" />
+    <chapter number="135" verses="21" />
+    <chapter number="136" verses="26" />
+    <chapter number="137" verses="9" />
+    <chapter number="138" verses="8" />
+    <chapter number="139" verses="24" />
+    <chapter number="140" verses="13" />
+    <chapter number="141" verses="10" />
+    <chapter number="142" verses="7" />
+    <chapter number="143" verses="12" />
+    <chapter number="144" verses="15" />
+    <chapter number="145" verses="21" />
+    <chapter number="146" verses="10" />
+    <chapter number="147" verses="20" />
+    <chapter number="148" verses="14" />
+    <chapter number="149" verses="9" />
+    <chapter number="150" verses="6" />
+  </book>
+  <book id="Proverbs" number="20">
+    <chapter number="1" verses="33" />
+    <chapter number="2" verses="22" />
+    <chapter number="3" verses="35" />
+    <chapter number="4" verses="27" />
+    <chapter number="5" verses="23" />
+    <chapter number="6" verses="35" />
+    <chapter number="7" verses="27" />
+    <chapter number="8" verses="36" />
+    <chapter number="9" verses="18" />
+    <chapter number="10" verses="32" />
+    <chapter number="11" verses="31" />
+    <chapter number="12" verses="28" />
+    <chapter number="13" verses="25" />
+    <chapter number="14" verses="35" />
+    <chapter number="15" verses="33" />
+    <chapter number="16" verses="33" />
+    <chapter number="17" verses="28" />
+    <chapter number="18" verses="24" />
+    <chapter number="19" verses="29" />
+    <chapter number="20" verses="30" />
+    <chapter number="21" verses="31" />
+    <chapter number="22" verses="29" />
+    <chapter number="23" verses="35" />
+    <chapter number="24" verses="34" />
+    <chapter number="25" verses="28" />
+    <chapter number="26" verses="28" />
+    <chapter number="27" verses="27" />
+    <chapter number="28" verses="28" />
+    <chapter number="29" verses="27" />
+    <chapter number="30" verses="33" />
+    <chapter number="31" verses="31" />
+  </book>
+  <book id="Ecclesiastes" number="21">
+    <chapter number="1" verses="18" />
+    <chapter number="2" verses="26" />
+    <chapter number="3" verses="22" />
+    <chapter number="4" verses="16" />
+    <chapter number="5" verses="20" />
+    <chapter number="6" verses="12" />
+    <chapter number="7" verses="29" />
+    <chapter number="8" verses="17" />
+    <chapter number="9" verses="18" />
+    <chapter number="10" verses="20" />
+    <chapter number="11" verses="10" />
+    <chapter number="12" verses="14" />
+  </book>
+  <book id="SongofSolomon" number="22">
+    <chapter number="1" verses="17" />
+    <chapter number="2" verses="17" />
+    <chapter number="3" verses="11" />
+    <chapter number="4" verses="16" />
+    <chapter number="5" verses="16" />
+    <chapter number="6" verses="13" />
+    <chapter number="7" verses="13" />
+    <chapter number="8" verses="14" />
+  </book>
+  <book id="Isaiah" number="23">
+    <chapter number="1" verses="31" />
+    <chapter number="2" verses="22" />
+    <chapter number="3" verses="26" />
+    <chapter number="4" verses="6" />
+    <chapter number="5" verses="30" />
+    <chapter number="6" verses="13" />
+    <chapter number="7" verses="25" />
+    <chapter number="8" verses="22" />
+    <chapter number="9" verses="21" />
+    <chapter number="10" verses="34" />
+    <chapter number="11" verses="16" />
+    <chapter number="12" verses="6" />
+    <chapter number="13" verses="22" />
+    <chapter number="14" verses="32" />
+    <chapter number="15" verses="9" />
+    <chapter number="16" verses="14" />
+    <chapter number="17" verses="14" />
+    <chapter number="18" verses="7" />
+    <chapter number="19" verses="25" />
+    <chapter number="20" verses="6" />
+    <chapter number="21" verses="17" />
+    <chapter number="22" verses="25" />
+    <chapter number="23" verses="18" />
+    <chapter number="24" verses="23" />
+    <chapter number="25" verses="12" />
+    <chapter number="26" verses="21" />
+    <chapter number="27" verses="13" />
+    <chapter number="28" verses="29" />
+    <chapter number="29" verses="24" />
+    <chapter number="30" verses="33" />
+    <chapter number="31" verses="9" />
+    <chapter number="32" verses="20" />
+    <chapter number="33" verses="24" />
+    <chapter number="34" verses="17" />
+    <chapter number="35" verses="10" />
+    <chapter number="36" verses="22" />
+    <chapter number="37" verses="38" />
+    <chapter number="38" verses="22" />
+    <chapter number="39" verses="8" />
+    <chapter number="40" verses="31" />
+    <chapter number="41" verses="29" />
+    <chapter number="42" verses="25" />
+    <chapter number="43" verses="28" />
+    <chapter number="44" verses="28" />
+    <chapter number="45" verses="25" />
+    <chapter number="46" verses="13" />
+    <chapter number="47" verses="15" />
+    <chapter number="48" verses="22" />
+    <chapter number="49" verses="26" />
+    <chapter number="50" verses="11" />
+    <chapter number="51" verses="23" />
+    <chapter number="52" verses="15" />
+    <chapter number="53" verses="12" />
+    <chapter number="54" verses="17" />
+    <chapter number="55" verses="13" />
+    <chapter number="56" verses="12" />
+    <chapter number="57" verses="21" />
+    <chapter number="58" verses="14" />
+    <chapter number="59" verses="21" />
+    <chapter number="60" verses="22" />
+    <chapter number="61" verses="11" />
+    <chapter number="62" verses="12" />
+    <chapter number="63" verses="19" />
+    <chapter number="64" verses="12" />
+    <chapter number="65" verses="25" />
+    <chapter number="66" verses="24" />
+  </book>
+  <book id="Jeremiah" number="24">
+    <chapter number="1" verses="19" />
+    <chapter number="2" verses="37" />
+    <chapter number="3" verses="25" />
+    <chapter number="4" verses="31" />
+    <chapter number="5" verses="31" />
+    <chapter number="6" verses="30" />
+    <chapter number="7" verses="34" />
+    <chapter number="8" verses="22" />
+    <chapter number="9" verses="26" />
+    <chapter number="10" verses="25" />
+    <chapter number="11" verses="23" />
+    <chapter number="12" verses="17" />
+    <chapter number="13" verses="27" />
+    <chapter number="14" verses="22" />
+    <chapter number="15" verses="21" />
+    <chapter number="16" verses="21" />
+    <chapter number="17" verses="27" />
+    <chapter number="18" verses="23" />
+    <chapter number="19" verses="15" />
+    <chapter number="20" verses="18" />
+    <chapter number="21" verses="14" />
+    <chapter number="22" verses="30" />
+    <chapter number="23" verses="40" />
+    <chapter number="24" verses="10" />
+    <chapter number="25" verses="38" />
+    <chapter number="26" verses="24" />
+    <chapter number="27" verses="22" />
+    <chapter number="28" verses="17" />
+    <chapter number="29" verses="32" />
+    <chapter number="30" verses="24" />
+    <chapter number="31" verses="40" />
+    <chapter number="32" verses="44" />
+    <chapter number="33" verses="26" />
+    <chapter number="34" verses="22" />
+    <chapter number="35" verses="19" />
+    <chapter number="36" verses="32" />
+    <chapter number="37" verses="21" />
+    <chapter number="38" verses="28" />
+    <chapter number="39" verses="18" />
+    <chapter number="40" verses="16" />
+    <chapter number="41" verses="18" />
+    <chapter number="42" verses="22" />
+    <chapter number="43" verses="13" />
+    <chapter number="44" verses="30" />
+    <chapter number="45" verses="5" />
+    <chapter number="46" verses="28" />
+    <chapter number="47" verses="7" />
+    <chapter number="48" verses="47" />
+    <chapter number="49" verses="39" />
+    <chapter number="50" verses="46" />
+    <chapter number="51" verses="64" />
+    <chapter number="52" verses="34" />
+  </book>
+  <book id="Lamentations" number="25">
+    <chapter number="1" verses="22" />
+    <chapter number="2" verses="22" />
+    <chapter number="3" verses="66" />
+    <chapter number="4" verses="22" />
+    <chapter number="5" verses="22" />
+  </book>
+  <book id="Ezekiel" number="26">
+    <chapter number="1" verses="28" />
+    <chapter number="2" verses="10" />
+    <chapter number="3" verses="27" />
+    <chapter number="4" verses="17" />
+    <chapter number="5" verses="17" />
+    <chapter number="6" verses="14" />
+    <chapter number="7" verses="27" />
+    <chapter number="8" verses="18" />
+    <chapter number="9" verses="11" />
+    <chapter number="10" verses="22" />
+    <chapter number="11" verses="25" />
+    <chapter number="12" verses="28" />
+    <chapter number="13" verses="23" />
+    <chapter number="14" verses="23" />
+    <chapter number="15" verses="8" />
+    <chapter number="16" verses="63" />
+    <chapter number="17" verses="24" />
+    <chapter number="18" verses="32" />
+    <chapter number="19" verses="14" />
+    <chapter number="20" verses="49" />
+    <chapter number="21" verses="32" />
+    <chapter number="22" verses="31" />
+    <chapter number="23" verses="49" />
+    <chapter number="24" verses="27" />
+    <chapter number="25" verses="17" />
+    <chapter number="26" verses="21" />
+    <chapter number="27" verses="36" />
+    <chapter number="28" verses="26" />
+    <chapter number="29" verses="21" />
+    <chapter number="30" verses="26" />
+    <chapter number="31" verses="18" />
+    <chapter number="32" verses="32" />
+    <chapter number="33" verses="33" />
+    <chapter number="34" verses="31" />
+    <chapter number="35" verses="15" />
+    <chapter number="36" verses="38" />
+    <chapter number="37" verses="28" />
+    <chapter number="38" verses="23" />
+    <chapter number="39" verses="29" />
+    <chapter number="40" verses="49" />
+    <chapter number="41" verses="26" />
+    <chapter number="42" verses="20" />
+    <chapter number="43" verses="27" />
+    <chapter number="44" verses="31" />
+    <chapter number="45" verses="25" />
+    <chapter number="46" verses="24" />
+    <chapter number="47" verses="23" />
+    <chapter number="48" verses="35" />
+  </book>
+  <book id="Daniel" number="27">
+    <chapter number="1" verses="21" />
+    <chapter number="2" verses="49" />
+    <chapter number="3" verses="30" />
+    <chapter number="4" verses="37" />
+    <chapter number="5" verses="31" />
+    <chapter number="6" verses="28" />
+    <chapter number="7" verses="28" />
+    <chapter number="8" verses="27" />
+    <chapter number="9" verses="27" />
+    <chapter number="10" verses="21" />
+    <chapter number="11" verses="45" />
+    <chapter number="12" verses="13" />
+  </book>
+  <book id="Hosea" number="28">
+    <chapter number="1" verses="11" />
+    <chapter number="2" verses="23" />
+    <chapter number="3" verses="5" />
+    <chapter number="4" verses="19" />
+    <chapter number="5" verses="15" />
+    <chapter number="6" verses="11" />
+    <chapter number="7" verses="16" />
+    <chapter number="8" verses="14" />
+    <chapter number="9" verses="17" />
+    <chapter number="10" verses="15" />
+    <chapter number="11" verses="12" />
+    <chapter number="12" verses="14" />
+    <chapter number="13" verses="16" />
+    <chapter number="14" verses="9" />
+  </book>
+  <book id="Joel" number="29">
+    <chapter number="1" verses="20" />
+    <chapter number="2" verses="32" />
+    <chapter number="3" verses="21" />
+  </book>
+  <book id="Amos" number="30">
+    <chapter number="1" verses="15" />
+    <chapter number="2" verses="16" />
+    <chapter number="3" verses="15" />
+    <chapter number="4" verses="13" />
+    <chapter number="5" verses="27" />
+    <chapter number="6" verses="14" />
+    <chapter number="7" verses="17" />
+    <chapter number="8" verses="14" />
+    <chapter number="9" verses="15" />
+  </book>
+  <book id="Obadiah" number="31">
+    <chapter number="1" verses="21" />
+  </book>
+  <book id="Jonah" number="32">
+    <chapter number="1" verses="17" />
+    <chapter number="2" verses="10" />
+    <chapter number="3" verses="10" />
+    <chapter number="4" verses="11" />
+  </book>
+  <book id="Micah" number="33">
+    <chapter number="1" verses="16" />
+    <chapter number="2" verses="13" />
+    <chapter number="3" verses="12" />
+    <chapter number="4" verses="13" />
+    <chapter number="5" verses="15" />
+    <chapter number="6" verses="16" />
+    <chapter number="7" verses="20" />
+  </book>
+  <book id="Nahum" number="34">
+    <chapter number="1" verses="15" />
+    <chapter number="2" verses="13" />
+    <chapter number="3" verses="19" />
+  </book>
+  <book id="Habakkuk" number="35">
+    <chapter number="1" verses="17" />
+    <chapter number="2" verses="20" />
+    <chapter number="3" verses="19" />
+  </book>
+  <book id="Zephaniah" number="36">
+    <chapter number="1" verses="18" />
+    <chapter number="2" verses="15" />
+    <chapter number="3" verses="20" />
+  </book>
+  <book id="Haggai" number="37">
+    <chapter number="1" verses="15" />
+    <chapter number="2" verses="23" />
+  </book>
+  <book id="Zechariah" number="38">
+    <chapter number="1" verses="21" />
+    <chapter number="2" verses="13" />
+    <chapter number="3" verses="10" />
+    <chapter number="4" verses="14" />
+    <chapter number="5" verses="11" />
+    <chapter number="6" verses="15" />
+    <chapter number="7" verses="14" />
+    <chapter number="8" verses="23" />
+    <chapter number="9" verses="17" />
+    <chapter number="10" verses="12" />
+    <chapter number="11" verses="17" />
+    <chapter number="12" verses="14" />
+    <chapter number="13" verses="9" />
+    <chapter number="14" verses="21" />
+  </book>
+  <book id="Malachi" number="39">
+    <chapter number="1" verses="14" />
+    <chapter number="2" verses="17" />
+    <chapter number="3" verses="18" />
+    <chapter number="4" verses="6" />
+  </book>
+  <book id="Matthew" number="40">
+    <chapter number="1" verses="25" />
+    <chapter number="2" verses="23" />
+    <chapter number="3" verses="17" />
+    <chapter number="4" verses="25" />
+    <chapter number="5" verses="48" />
+    <chapter number="6" verses="34" />
+    <chapter number="7" verses="29" />
+    <chapter number="8" verses="34" />
+    <chapter number="9" verses="38" />
+    <chapter number="10" verses="42" />
+    <chapter number="11" verses="30" />
+    <chapter number="12" verses="50" />
+    <chapter number="13" verses="58" />
+    <chapter number="14" verses="36" />
+    <chapter number="15" verses="39" />
+    <chapter number="16" verses="28" />
+    <chapter number="17" verses="27" />
+    <chapter number="18" verses="35" />
+    <chapter number="19" verses="30" />
+    <chapter number="20" verses="34" />
+    <chapter number="21" verses="46" />
+    <chapter number="22" verses="46" />
+    <chapter number="23" verses="39" />
+    <chapter number="24" verses="51" />
+    <chapter number="25" verses="46" />
+    <chapter number="26" verses="75" />
+    <chapter number="27" verses="66" />
+    <chapter number="28" verses="20" />
+  </book>
+  <book id="Mark" number="41">
+    <chapter number="1" verses="45" />
+    <chapter number="2" verses="28" />
+    <chapter number="3" verses="35" />
+    <chapter number="4" verses="41" />
+    <chapter number="5" verses="43" />
+    <chapter number="6" verses="56" />
+    <chapter number="7" verses="37" />
+    <chapter number="8" verses="38" />
+    <chapter number="9" verses="50" />
+    <chapter number="10" verses="52" />
+    <chapter number="11" verses="33" />
+    <chapter number="12" verses="44" />
+    <chapter number="13" verses="37" />
+    <chapter number="14" verses="72" />
+    <chapter number="15" verses="47" />
+    <chapter number="16" verses="20" />
+  </book>
+  <book id="Luke" number="42">
+    <chapter number="1" verses="80" />
+    <chapter number="2" verses="52" />
+    <chapter number="3" verses="38" />
+    <chapter number="4" verses="44" />
+    <chapter number="5" verses="39" />
+    <chapter number="6" verses="49" />
+    <chapter number="7" verses="50" />
+    <chapter number="8" verses="56" />
+    <chapter number="9" verses="62" />
+    <chapter number="10" verses="42" />
+    <chapter number="11" verses="54" />
+    <chapter number="12" verses="59" />
+    <chapter number="13" verses="35" />
+    <chapter number="14" verses="35" />
+    <chapter number="15" verses="32" />
+    <chapter number="16" verses="31" />
+    <chapter number="17" verses="37" />
+    <chapter number="18" verses="43" />
+    <chapter number="19" verses="48" />
+    <chapter number="20" verses="47" />
+    <chapter number="21" verses="38" />
+    <chapter number="22" verses="71" />
+    <chapter number="23" verses="56" />
+    <chapter number="24" verses="53" />
+  </book>
+  <book id="John" number="43">
+    <chapter number="1" verses="51" />
+    <chapter number="2" verses="25" />
+    <chapter number="3" verses="36" />
+    <chapter number="4" verses="54" />
+    <chapter number="5" verses="47" />
+    <chapter number="6" verses="71" />
+    <chapter number="7" verses="53" />
+    <chapter number="8" verses="59" />
+    <chapter number="9" verses="41" />
+    <chapter number="10" verses="42" />
+    <chapter number="11" verses="57" />
+    <chapter number="12" verses="50" />
+    <chapter number="13" verses="38" />
+    <chapter number="14" verses="31" />
+    <chapter number="15" verses="27" />
+    <chapter number="16" verses="33" />
+    <chapter number="17" verses="26" />
+    <chapter number="18" verses="40" />
+    <chapter number="19" verses="42" />
+    <chapter number="20" verses="31" />
+    <chapter number="21" verses="25" />
+  </book>
+  <book id="Acts" number="44">
+    <chapter number="1" verses="26" />
+    <chapter number="2" verses="47" />
+    <chapter number="3" verses="26" />
+    <chapter number="4" verses="37" />
+    <chapter number="5" verses="42" />
+    <chapter number="6" verses="15" />
+    <chapter number="7" verses="60" />
+    <chapter number="8" verses="40" />
+    <chapter number="9" verses="43" />
+    <chapter number="10" verses="48" />
+    <chapter number="11" verses="30" />
+    <chapter number="12" verses="25" />
+    <chapter number="13" verses="52" />
+    <chapter number="14" verses="28" />
+    <chapter number="15" verses="41" />
+    <chapter number="16" verses="40" />
+    <chapter number="17" verses="34" />
+    <chapter number="18" verses="28" />
+    <chapter number="19" verses="41" />
+    <chapter number="20" verses="38" />
+    <chapter number="21" verses="40" />
+    <chapter number="22" verses="30" />
+    <chapter number="23" verses="35" />
+    <chapter number="24" verses="27" />
+    <chapter number="25" verses="27" />
+    <chapter number="26" verses="32" />
+    <chapter number="27" verses="44" />
+    <chapter number="28" verses="31" />
+  </book>
+  <book id="Romans" number="45">
+    <chapter number="1" verses="32" />
+    <chapter number="2" verses="29" />
+    <chapter number="3" verses="31" />
+    <chapter number="4" verses="25" />
+    <chapter number="5" verses="21" />
+    <chapter number="6" verses="23" />
+    <chapter number="7" verses="25" />
+    <chapter number="8" verses="39" />
+    <chapter number="9" verses="33" />
+    <chapter number="10" verses="21" />
+    <chapter number="11" verses="36" />
+    <chapter number="12" verses="21" />
+    <chapter number="13" verses="14" />
+    <chapter number="14" verses="23" />
+    <chapter number="15" verses="33" />
+    <chapter number="16" verses="27" />
+  </book>
+  <book id="1Corinthians" number="46">
+    <chapter number="1" verses="31" />
+    <chapter number="2" verses="16" />
+    <chapter number="3" verses="23" />
+    <chapter number="4" verses="21" />
+    <chapter number="5" verses="13" />
+    <chapter number="6" verses="20" />
+    <chapter number="7" verses="40" />
+    <chapter number="8" verses="13" />
+    <chapter number="9" verses="27" />
+    <chapter number="10" verses="33" />
+    <chapter number="11" verses="34" />
+    <chapter number="12" verses="31" />
+    <chapter number="13" verses="13" />
+    <chapter number="14" verses="40" />
+    <chapter number="15" verses="58" />
+    <chapter number="16" verses="24" />
+  </book>
+  <book id="2Corinthians" number="47">
+    <chapter number="1" verses="24" />
+    <chapter number="2" verses="17" />
+    <chapter number="3" verses="18" />
+    <chapter number="4" verses="18" />
+    <chapter number="5" verses="21" />
+    <chapter number="6" verses="18" />
+    <chapter number="7" verses="16" />
+    <chapter number="8" verses="24" />
+    <chapter number="9" verses="15" />
+    <chapter number="10" verses="18" />
+    <chapter number="11" verses="33" />
+    <chapter number="12" verses="21" />
+    <chapter number="13" verses="14" />
+  </book>
+  <book id="Galatians" number="48">
+    <chapter number="1" verses="24" />
+    <chapter number="2" verses="21" />
+    <chapter number="3" verses="29" />
+    <chapter number="4" verses="31" />
+    <chapter number="5" verses="26" />
+    <chapter number="6" verses="18" />
+  </book>
+  <book id="Ephesians" number="49">
+    <chapter number="1" verses="23" />
+    <chapter number="2" verses="22" />
+    <chapter number="3" verses="21" />
+    <chapter number="4" verses="32" />
+    <chapter number="5" verses="33" />
+    <chapter number="6" verses="24" />
+  </book>
+  <book id="Philippians" number="50">
+    <chapter number="1" verses="30" />
+    <chapter number="2" verses="30" />
+    <chapter number="3" verses="21" />
+    <chapter number="4" verses="23" />
+  </book>
+  <book id="Colossians" number="51">
+    <chapter number="1" verses="29" />
+    <chapter number="2" verses="23" />
+    <chapter number="3" verses="25" />
+    <chapter number="4" verses="18" />
+  </book>
+  <book id="1Thessalonians" number="52">
+    <chapter number="1" verses="10" />
+    <chapter number="2" verses="20" />
+    <chapter number="3" verses="13" />
+    <chapter number="4" verses="18" />
+    <chapter number="5" verses="28" />
+  </book>
+  <book id="2Thessalonians" number="53">
+    <chapter number="1" verses="12" />
+    <chapter number="2" verses="17" />
+    <chapter number="3" verses="18" />
+  </book>
+  <book id="1Timothy" number="54">
+    <chapter number="1" verses="20" />
+    <chapter number="2" verses="15" />
+    <chapter number="3" verses="16" />
+    <chapter number="4" verses="16" />
+    <chapter number="5" verses="25" />
+    <chapter number="6" verses="21" />
+  </book>
+  <book id="2Timothy" number="55">
+    <chapter number="1" verses="18" />
+    <chapter number="2" verses="26" />
+    <chapter number="3" verses="17" />
+    <chapter number="4" verses="22" />
+  </book>
+  <book id="Titus" number="56">
+    <chapter number="1" verses="16" />
+    <chapter number="2" verses="15" />
+    <chapter number="3" verses="15" />
+  </book>
+  <book id="Philemon" number="57">
+    <chapter number="1" verses="25" />
+  </book>
+  <book id="Hebrews" number="58">
+    <chapter number="1" verses="14" />
+    <chapter number="2" verses="18" />
+    <chapter number="3" verses="19" />
+    <chapter number="4" verses="16" />
+    <chapter number="5" verses="14" />
+    <chapter number="6" verses="20" />
+    <chapter number="7" verses="28" />
+    <chapter number="8" verses="13" />
+    <chapter number="9" verses="28" />
+    <chapter number="10" verses="39" />
+    <chapter number="11" verses="40" />
+    <chapter number="12" verses="29" />
+    <chapter number="13" verses="25" />
+  </book>
+  <book id="James" number="59">
+    <chapter number="1" verses="27" />
+    <chapter number="2" verses="26" />
+    <chapter number="3" verses="18" />
+    <chapter number="4" verses="17" />
+    <chapter number="5" verses="20" />
+  </book>
+  <book id="1Peter" number="60">
+    <chapter number="1" verses="25" />
+    <chapter number="2" verses="25" />
+    <chapter number="3" verses="22" />
+    <chapter number="4" verses="19" />
+    <chapter number="5" verses="14" />
+  </book>
+  <book id="2Peter" number="61">
+    <chapter number="1" verses="21" />
+    <chapter number="2" verses="22" />
+    <chapter number="3" verses="18" />
+  </book>
+  <book id="1John" number="62">
+    <chapter number="1" verses="10" />
+    <chapter number="2" verses="29" />
+    <chapter number="3" verses="24" />
+    <chapter number="4" verses="21" />
+    <chapter number="5" verses="21" />
+  </book>
+  <book id="2John" number="63">
+    <chapter number="1" verses="13" />
+  </book>
+  <book id="3John" number="64">
+    <chapter number="1" verses="14" />
+  </book>
+  <book id="Jude" number="65">
+    <chapter number="1" verses="25" />
+  </book>
+  <book id="Revelation" number="66">
+    <chapter number="1" verses="20" />
+    <chapter number="2" verses="29" />
+    <chapter number="3" verses="22" />
+    <chapter number="4" verses="11" />
+    <chapter number="5" verses="14" />
+    <chapter number="6" verses="17" />
+    <chapter number="7" verses="17" />
+    <chapter number="8" verses="13" />
+    <chapter number="9" verses="21" />
+    <chapter number="10" verses="11" />
+    <chapter number="11" verses="19" />
+    <chapter number="12" verses="17" />
+    <chapter number="13" verses="18" />
+    <chapter number="14" verses="20" />
+    <chapter number="15" verses="8" />
+    <chapter number="16" verses="21" />
+    <chapter number="17" verses="18" />
+    <chapter number="18" verses="24" />
+    <chapter number="19" verses="21" />
+    <chapter number="20" verses="15" />
+    <chapter number="21" verses="27" />
+    <chapter number="22" verses="21" />
+  </book>
+</bible>

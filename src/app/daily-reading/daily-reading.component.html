@@ -1,0 +1,15 @@
+ <div class="center">
+		<app-date-picker-pop-up></app-date-picker-pop-up>
+
+    <div *ngFor="let reading of readings; let i=index">
+			<button type="button" class="btn btn-info btn-margin" (click)="clickRead($event, i)">{{ reading }}</button>
+    </div> 
+
+		<br>
+		<div class="btn-group" role="group" aria-label="...">
+			<button type="button" class="btn btn-default btn-margin" (click)="clickPrev($event)">Prev</button>
+			<button type="button" class="btn btn-default btn-margin" (click)="clickToday($event)">Today</button>
+			<button type="button" class="btn btn-default btn-margin" (click)="clickNext($event)">Next</button>
+		</div>
+</div><!-- /content -->
+  
