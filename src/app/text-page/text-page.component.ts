@@ -2,6 +2,8 @@ import { Component, OnInit, AfterViewInit } from '@angular/core';
 import {  Params }   from '@angular/router';
 
 import { Schedule } from "../models/schedule"; 
+import { ScheduleEntry } from "../models/schedule-entry"; 
+import { AudioEntry } from "../models/audio-entry"; 
 import { ScheduleService } from '../schedule.service';
 import { ConfigurationService } from '../configuration.service';
 import { AudioService } from '../audio.service';
@@ -28,6 +30,8 @@ export class TextPageComponent implements OnInit, AfterViewInit {
   currentChapter : number;
 
   audioUrls : string[];
+
+  audioEntries : AudioEntry[];
 
   startTime : number;
 
@@ -56,34 +60,32 @@ export class TextPageComponent implements OnInit, AfterViewInit {
   }
 
 
-prevChapter()
+prevEntry()
 {
     if (this.currentIndex > 0)
     {
       this.currentIndex--;
-      this.currentChapter--;
+      this.configurationService.currentReading =  this.configurationService.allDailyReadings[this.currentIndex];
       this.loadAudio(this.currentIndex);
     }
 }
 
-nextChapter()
+nextEntry()
 {
-    if (this.currentIndex < this.audioUrls.length - 1)
+  if (this.currentIndex < this.audioEntries.length - 1)
     {
       this.currentIndex++;
-      this.currentChapter++;
-    this.loadAudio(this.currentIndex);
+      this.configurationService.currentReading =  this.configurationService.allDailyReadings[this.currentIndex];
+      this.loadAudio(this.currentIndex);
     }
 }
 
-playNextChapter($event)
+playNextEntry($event)
 {
-   let entry = this.configurationService.currentReading;
-
-  if (this.currentChapter !=  entry.endChapter)
+  if (this.currentIndex < this.audioEntries.length - 1)
   {
     this.autoPlay = true;
-    this.nextChapter();
+    this.nextEntry();
   }
 }
 
@@ -116,18 +118,49 @@ bibleGateWayToBibleDotCom(bibleName: string) : number
 
   load() {
     let bible = this.configurationService.currentBible;
-    let entry = this.configurationService.currentReading;
+   // let entry = this.configurationService.currentReading;
     let audioBible = this.bibleGateWayToBibleDotCom(bible);
     this.audioUrls = [];
+    this.audioEntries = [];
+    for (let e of this.configurationService.allDailyReadings)
+    {
+      this.loadOneEntry(e, audioBible);
+    }
+    this.currentIndex = 0;
+  }
+
+  loadOneEntry(entry: ScheduleEntry, audioBible: number) {
+
     for (let i = entry.beginChapter; i <= entry.endChapter; i++)
     {
-        //let audioDocUrl = this.audioService.bibleDotComUrl(audioBible, entry.book, i);
         let audioDocUrl = this.audioService.getBibleAudioUrl(audioBible, entry.book, i);
         this.audioUrls.push(audioDocUrl);
+        let audioEntry = new AudioEntry();
+        audioEntry.book = entry.book;
+        audioEntry.chapter = i;
+        if (i === entry.beginChapter)
+        {
+          audioEntry.startVerse = entry.beginChapterStartVerse;
+          audioEntry.endVerse = entry.beginChapterEndVerse;
+          audioEntry.url = audioDocUrl;
+        }
+        else
+        if (i === entry.endChapter)
+        {
+          audioEntry.startVerse = entry.endChapterStartVerse;
+          audioEntry.endVerse = entry.endChapterEndVerse;
+          audioEntry.url = audioDocUrl;
+        }
+        else
+        {
+          audioEntry.chapter = i;
+          audioEntry.startVerse = 1;
+          audioEntry.endVerse = 1000;
+          audioEntry.url = audioDocUrl;
+        }
+        
+        this.audioEntries.push(audioEntry);
     }
-
-    this.currentIndex = 0;
-    this.currentChapter = entry.beginChapter;
   }
 
   loadAudio(index : number)
@@ -149,10 +182,10 @@ bibleGateWayToBibleDotCom(bibleName: string) : number
      {
       let audioElement = <HTMLAudioElement>$event.srcElement;
       let audioLength : number = audioElement.seekable.end(0);
-      let entry = this.configurationService.currentReading;
-      let verseCount = this.scheduleService.getBookChapterVerseCount2(entry.book, this.currentChapter);
-      this.startTime = this.getStartTime(audioLength, verseCount);
-      this.endTime = this.getEndTime(audioLength, verseCount);
+      let entry = this.audioEntries[this.currentIndex];
+      let verseCount = this.scheduleService.getBookChapterVerseCount2(entry.book, entry.chapter);
+      this.startTime = this.getStartTime(audioLength, verseCount, entry);
+      this.endTime = this.getEndTime(audioLength, verseCount, entry);
       audioElement.currentTime = this.startTime;
       if (this.autoPlay)
       {
@@ -167,51 +200,26 @@ bibleGateWayToBibleDotCom(bibleName: string) : number
       }
   }
 
-  getStartTime(audioLength: number, verseCount: number) : number
+  getStartTime(audioLength: number, verseCount: number, entry : AudioEntry) : number
   {
     if (this.configurationService.guessAudioPosition)
     {
-      let entry = this.configurationService.currentReading;
-      
-      if (entry.beginChapter == this.currentChapter)
-      {
-        let start = (entry.beginChapterStartVerse - 1) / verseCount * audioLength; 
+        let start = (entry.startVerse - 1) / verseCount * audioLength; 
         return start;
-      }
-
-      if (entry.endChapter == this.currentChapter)
-      {
-        let start = (entry.endChapterStartVerse - 1) / verseCount * audioLength; 
-        return start;
-      }
     }
 
     return 0; 
   }
 
-  getEndTime(audioLength: number, verseCount: number) : number
+  getEndTime(audioLength: number, verseCount: number, entry : AudioEntry) : number
   {
     if (this.configurationService.guessAudioPosition)
     {
-      let entry = this.configurationService.currentReading;
-      
-      if (entry.beginChapter == this.currentChapter)
-      {
-        if (entry.beginChapterEndVerse == verseCount)
+        if (entry.endVerse == verseCount)
         {
           return audioLength;
         }
-        return entry.beginChapterEndVerse / verseCount * audioLength; 
-      }
-
-      if (entry.endChapter == this.currentChapter)
-      {
-        if (entry.endChapterEndVerse == verseCount)
-        {
-          return audioLength;
-        }
-        return (entry.endChapterEndVerse - 1) / verseCount * audioLength; 
-      }
+        return (entry.endVerse) / verseCount * audioLength; 
     }
 
     return 1000; 

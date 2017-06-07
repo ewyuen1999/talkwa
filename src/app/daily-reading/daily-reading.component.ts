@@ -58,13 +58,34 @@ export class DailyReadingComponent implements OnInit {
 
   clickRead(event , index)
   {
+    if (this.readings[index] == "All Passages")
+    {
+       let allEntries = [] ;
+       for (let i = 0; i < this.readings.length - 1; i++) {
+         var entry = this.utilities.parseSchedule(this.readings[i]);
+         allEntries.push(entry);
+       }
+       this.configurationService.setAllDailyReading(allEntries);
+       this.configurationService.setCurrentReading(allEntries[0]);
+       let allPassages = this.readings.join(";");
+       let readingUrl = this.urlTemplate.replace('{verses}',  allPassages);
+       let url = readingUrl  + "&version=" + this.configurationService.currentBible;
+       this.configurationService.setCurrentVerse(url);
+       this.router.navigate(['/text']);
+    }
+    else
+    {
     var entry = this.utilities.parseSchedule(this.readings[index]);
+    let entries = [] ;
+    entries.push(entry);
+    this.configurationService.setAllDailyReading(entries);
     this.configurationService.setCurrentReading(entry);
     let readingUrl = this.urlTemplate.replace('{verses}', this.readings[index]);
   
     let url = readingUrl  + "&version=" + this.configurationService.currentBible;
     this.configurationService.setCurrentVerse(url);
     this.router.navigate(['/text']);
+    }
   }
 
   updateDate()
@@ -73,7 +94,9 @@ export class DailyReadingComponent implements OnInit {
     (schedule: Schedule) => { 
         this.schedule = schedule;
         this.today = this.schedule.date;
-        this.readings = schedule.devotions;
+        let devotions = schedule.devotions;
+        devotions.push("All Passages");
+        this.readings = devotions;
     }
    )
   }

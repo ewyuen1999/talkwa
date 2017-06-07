@@ -4,17 +4,17 @@
 			<tr>
 				<td>
 					<audio id="audioElement" preload="metadata" controls type="audio/mpeg"  
-					(ended)="playNextChapter($event)"
+					(ended)="playNextEntry($event)"
 					(loadeddata)="setStartPosition($event)"
 					(timeupdate)="restrictAudio($event)" >
 						<p>Your browser does not support the <code>audio</code> element.</p>
 					</audio>
 				</td>
 				<td>
-					<i (click)="prevChapter()" class="fa fa-backward control-button" aria-hidden="true"></i>
+					<i (click)="prevEntry()" class="fa fa-backward control-button" aria-hidden="true"></i>
 				</td>
 				<td>
-					<i (click)="nextChapter()" class="fa fa-forward control-button" aria-hidden="true"></i>
+					<i (click)="nextEntry()" class="fa fa-forward control-button" aria-hidden="true"></i>
 				</td>
 			</tr>
 		</table>

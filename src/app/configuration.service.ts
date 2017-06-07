@@ -9,6 +9,7 @@ export class ConfigurationService {
   currentBible  : string;
   currentDate: Date;
   currentReading: ScheduleEntry;
+  allDailyReadings : ScheduleEntry[];
   currentVerses : string;
   guessAudioPosition: boolean;
 
@@ -68,6 +69,11 @@ export class ConfigurationService {
     setCurrentReading(entry: ScheduleEntry)
     {
       this.currentReading = entry;
+    }
+
+    setAllDailyReading(entries: ScheduleEntry[])
+    {
+      this.allDailyReadings = entries;
     }
 
     setCurrentVerse(verses : string)

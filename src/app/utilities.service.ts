@@ -79,10 +79,20 @@ readJsonFile(jsonfile)
     // get verses
     if (dashIndex == -1)
     {
-      entry.beginChapterStartVerse = 1;
-      entry.beginChapterEndVerse = 1000;
-      entry.endChapterStartVerse  = entry.beginChapterStartVerse;
-      entry.endChapterEndVerse = entry.beginChapterEndVerse ;
+      if (colonIndex == -1 )
+      {
+          entry.beginChapterStartVerse = 1;
+          entry.beginChapterEndVerse = 1000;
+          entry.endChapterStartVerse  = entry.beginChapterStartVerse;
+          entry.endChapterEndVerse = entry.beginChapterEndVerse ;
+      }
+      else
+      {
+          entry.beginChapterStartVerse = Number(entryString.substr(colonIndex + 1, entryString.length - colonIndex));
+          entry.beginChapterEndVerse = entry.beginChapterStartVerse;
+          entry.endChapterStartVerse  = entry.beginChapterStartVerse;
+          entry.endChapterEndVerse = entry.beginChapterStartVerse;
+      }
     }
     else
     {
